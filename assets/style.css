@@ -1,0 +1,76 @@
+/* Global spacing */
+body {
+    padding: 0px;
+    background-color: #f8f9fa;
+}
+
+/* Container spacing */
+.container {
+    margin-top: 30px;
+}
+
+/* Card styling */
+.card {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/* Form spacing */
+form {
+    padding: 20px;
+}
+
+form input,
+form select,
+form textarea {
+    margin-bottom: 15px;
+}
+
+
+#jobsContainer {
+    transition: all 0.3s ease;
+}
+
+/* Buttons spacing */
+button, .btn {
+    margin-top: 0px;
+}
+
+/* Table spacing */
+table {
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px !important;
+    vertical-align: middle;
+}
+
+/* Navbar spacing */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Dashboard cards */
+.dashboard-card {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+@media (max-width: 768px) {
+    h3 {
+        font-size: 20px;
+    }
+
+    .card h2 {
+        font-size: 24px;
+    }
+
+    .card h5 {
+        font-size: 16px;
+    }
+}
