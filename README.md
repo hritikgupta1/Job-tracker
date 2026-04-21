@@ -4,7 +4,7 @@ A modern web application to track job applications efficiently.
 Built with PHP, MySQL, Bootstrap, and AJAX for a smooth user experience.
 
 ## 🔗 Live Demo
-Coming Soon...
+https://jobtracker-hritik.infinityfree.me/
 
 ## ✨ Features
 
